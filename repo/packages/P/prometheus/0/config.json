@@ -1,8 +1,8 @@
 {
   "type": "object",
   "properties": {
-    "mesos": {
-      "description": "Mesos specific configuration properties",
+    "prometheus": {
+      "description": "Prometheus specific configuration properties",
       "type": "object",
       "properties": {
         "master": {
